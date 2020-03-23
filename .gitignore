@@ -1,0 +1,4 @@
+.vs
+output/logging
+*.pyc
+data/weights/
